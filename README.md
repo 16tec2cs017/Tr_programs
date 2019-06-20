@@ -1,2 +1,1 @@
-# Tr_programs
-programs made in Summer Internship programs
+Machine Learning programs using certain libraries like numpy, matplotlib, pandas etc.
